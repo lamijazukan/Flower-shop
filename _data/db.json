@@ -1,0 +1,162 @@
+{
+  "flowers": [
+    {
+      "id": "1",
+      "img": "/images/roses.jpeg",
+      "alt": "roses",
+      "title": "PINK ROSES",
+      "price": "$259",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc.",
+      "sku": "7555",
+      "categories": "Popular, Winter",
+      "tags": "Llilies, Roses"
+    },
+    {
+      "id": "2",
+      "img": "/images/redtulip.jpg",
+      "alt": "tulips",
+      "title": "RED TULIPS",
+      "price": "$230",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc.",
+      "sku": "7555",
+      "categories": "Popular, Winter",
+      "tags": "Llilies, Roses"
+    },
+    {
+      "id": "3",
+      "img": "/images/camomile.jpg",
+      "alt": "camomile",
+      "title": "CAMOMILE",
+      "price": "$259",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc.",
+      "sku": "7555",
+      "categories": "Popular, Winter",
+      "tags": "Llilies, Roses"
+    },
+    {
+      "id": "4",
+      "img": "/images/wildrose.jpg",
+      "alt": "roses",
+      "title": "WILD ROSES",
+      "price": "$259",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc.",
+      "sku": "7555",
+      "categories": "Popular, Winter",
+      "tags": "Llilies, Roses"
+    },
+    {
+      "id": "5",
+      "img": "/images/orange roses.jpg",
+      "alt": "roses",
+      "title": "ORANGE ROSES",
+      "price": "$259",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc.",
+      "sku": "7555",
+      "categories": "Popular, Winter",
+      "tags": "Llilies, Roses"
+    },
+    {
+      "id": "6",
+      "img": "/images/nature.jpg",
+      "alt": "bouqet",
+      "title": "NATURE BOUQET",
+      "price": "$350",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc.",
+      "sku": "7555",
+      "categories": "Popular, Winter",
+      "tags": "Llilies, Roses"
+    },
+    {
+      "id": "7",
+      "img": "/images/roses.jpeg",
+      "alt": "roses",
+      "title": "PINK ROSES",
+      "price": "$259",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc.",
+      "sku": "7555",
+      "categories": "Popular, Winter",
+      "tags": "Llilies, Roses"
+    },
+    {
+      "id": "8",
+      "img": "/images/redtulip.jpg",
+      "alt": "tulips",
+      "title": "RED TULIPS",
+      "price": "$259",
+      "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc.",
+      "sku": "7555",
+      "categories": "Popular, Winter",
+      "tags": "Llilies, Roses"
+    }
+  ],
+  "experts": [
+    {
+      "id": "1",
+      "img": "/images/expert1.jpeg",
+      "name": "CRYSTAL BOOKS",
+      "profession": "Florist"
+    },
+    {
+      "id": "2",
+      "img": "/images/expert2.jpeg",
+      "name": "SHIRLEY HARRIS",
+      "profession": "Manager"
+    },
+    {
+      "id": "3",
+      "img": "/images/expert3.jpeg",
+      "name": "BEVERLY CLARK",
+      "profession": "Florist"
+    },
+    {
+      "id": "4",
+      "img": "/images/expert4.jpeg",
+      "name": "AMANDA WATKINS",
+      "profession": "Photographer"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "name": "AMANDA WATKINS",
+      "email": "amandawatkins@gmail.com",
+      "date": "30.04.2018",
+      "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    {
+      "id": "2",
+      "name": "AMANDA WATKINS",
+      "email": "amandawatkins@gmail.com",
+      "date": "30.04.2018",
+      "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis Theme natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    {
+      "name": "Lamija",
+      "email": "user@gmail.com",
+      "date": "30.04.2018",
+      "comment": "beautiful",
+      "id": "7TxAu9e"
+    },
+    {
+      "name": "Lamija",
+      "email": "user@gmail.com",
+      "date": "30.04.2018",
+      "comment": "hi",
+      "id": "W71U9pC"
+    },
+    {
+      "name": "lamija",
+      "email": "user@gmail.com",
+      "date": "30.04.2018",
+      "comment": "wonderful",
+      "id": "o6qb2eU"
+    },
+    {
+      "name": "asff",
+      "email": "user@gmail.com",
+      "date": "30.04.2018",
+      "comment": "fsadafs",
+      "id": "PJoIVZo"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-links li{
+    @apply pl-4 pr-4 text-sm
+}
+.nav-links li:hover{
+    @apply text-[#F72F32]
+}
+.icons button{
+    @apply pl-2 pr-2 
+}
+.icons button:hover{
+    @apply text-[#F72F32] 
+}
